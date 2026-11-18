@@ -1,0 +1,16 @@
+Urutan,Stasiun,Program_Datang,Program_Berangkat,Realisasi_Datang,Realisasi_Berangkat,Keterangan
+1,Kampung Bandan,19:46:00,19:47:00,19:44:50,19:46:31,Datang awal 1 menit 10 detik; Berangkat awal 29 detik
+2,Rajawali,,,19:49:20,19:49:52,Berhenti Sebentar
+3,Kemayoran,19:54:00,19:55:00,19:52:13,19:55:16,Datang awal 1 menit 47 detik; Berangkat lambat 16 detik
+4,Pasar Senen,Ls,19:58:00,20:00:49,20:00:50,Berangkat lambat 2 menit 50 detik (Ls pada program datang)
+5,Gang Sentiong,,,20:02:13,20:02:40,Berhenti Sebentar
+6,Kramat,,,20:05:12,20:06:53,Berhenti Sebentar
+7,Pondok Jati,,,20:08:24,20:09:11,Berhenti Sebentar
+8,Jatinegara,20:09:00,20:15:00,20:11:05,20:12:21,Datang lambat 2 menit 5 detik; Berangkat awal 2 menit 39 detik
+9,Klender,,,20:15:49,20:16:25,Berhenti Sebentar
+10,Buaran,,,20:18:23,20:19:04,Berhenti Sebentar
+11,Klender Baru,,,20:20:56,20:21:46,Berhenti Sebentar
+12,Cakung,20:27:00,20:28:00,20:23:39,20:28:23,Datang awal 3 menit 21 detik; Berangkat lambat 23 detik
+13,Kranji,,,20:30:58,20:31:42,Berhenti Sebentar
+14,Bekasi,20:35:00,20:37:00,20:33:59,20:45:32,Berangkat lambat 8 menit 32 detik (disusul KA 116B)
+15,Bekasi Timur,,,20:48:55,20:49:19,Berhenti sebentar lalu berjalan 1.69 m dan berhenti karena kerumunan masyarakat; Tabrakan pukul 20:52:12
